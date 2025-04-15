@@ -4,7 +4,7 @@
    <i>How to evaluate Text to Image Generation Model properly?</i>
    <div>
       <!-- <a href="https://arxiv.org/abs/2504.08358"><img src="https://arxiv.org/abs/2504.08358"/></a> -->
-      <a href="https://arxiv.org/abs/2412.18150"><img src="https://img.shields.io/badge/Arxiv-2412.18150-red"/></a>
+      <a href="https://arxiv.org/abs/2504.08358"><img src="https://img.shields.io/badge/Arxiv-2504.08358-red"/></a>
       <a href="https://huggingface.co/datasets/wangjiarui/EvalMi-50K/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green"></a>
    </div>
 </div>
