@@ -6,7 +6,8 @@
       <!-- <a href="https://arxiv.org/abs/2504.08358"><img src="https://img.shields.io/github/stars/DYEvaLab/EvalMuse"/></a> -->
       <a href="https://arxiv.org/abs/2412.18150"><img src="https://img.shields.io/badge/Arxiv-2412.18150-red"/></a>
       <a href="https://huggingface.co/datasets/wangjiarui/EvalMi-50K/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green"></a>
-
+</div>
+   
 ![pipeline](https://github.com/user-attachments/assets/c322826f-12f3-48a1-b62f-b1c731dc4ba6)
 ## T2V Model Ranks
 ![modelrank](https://github.com/user-attachments/assets/1ff75fa2-f9fe-43c1-8e34-bd72d9a9d443)
