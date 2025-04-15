@@ -1,4 +1,4 @@
-# LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs
+
 <div align="center">
    <h1>LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs</h1>
    <i>How to evaluate Text to Image Generation Model properly?</i>
@@ -6,7 +6,6 @@
       <!-- <a href="https://github.com/DYEvaLab/EvalMuse"><img src="https://img.shields.io/github/stars/DYEvaLab/EvalMuse"/></a> -->
       <a href="https://arxiv.org/abs/2412.18150"><img src="https://img.shields.io/badge/Arxiv-2412.18150-red"/></a>
       <a href="https://huggingface.co/datasets/wangjiarui/EvalMi-50K/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green"></a>
-url=https%3A%2F%2Fgithub.com%2FDYEvaLab%2FEvalMuse&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 
 ![pipeline](https://github.com/user-attachments/assets/c322826f-12f3-48a1-b62f-b1c731dc4ba6)
 ## T2V Model Ranks
