@@ -1,5 +1,6 @@
 # LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs
-[abstractrrr2.pdf](https://github.com/user-attachments/files/19758594/abstractrrr2.pdf)
+![pipeline](https://github.com/user-attachments/assets/c322826f-12f3-48a1-b62f-b1c731dc4ba6)
+
 ## Citation
 
 If you find our work useful, please cite our paper as:
