@@ -8,7 +8,7 @@
       <a href="https://huggingface.co/datasets/wangjiarui/EvalMi-50K/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green"></a>
    </div>
 </div>
-   
+
 ![pipeline](https://github.com/user-attachments/assets/c322826f-12f3-48a1-b62f-b1c731dc4ba6)
 ## T2V Model Ranks
 ![modelrank](https://github.com/user-attachments/assets/1ff75fa2-f9fe-43c1-8e34-bd72d9a9d443)
@@ -16,7 +16,10 @@
 ![Models](https://github.com/user-attachments/assets/fad370b3-9a65-4625-8542-03e11550c335)
 ## LMM-VQA Models
 ![LMMs](https://github.com/user-attachments/assets/dea7d25a-1ba3-4865-b4d5-ebf6857842c3)
-
+## EvalMi-50K Download
+```
+huggingface-cli download wangjiarui/EvalMi-50K --repo-type dataset --local-dir ./EvalMi-50K
+```
 
 ## Citation
 
