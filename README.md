@@ -17,6 +17,7 @@
 ## LMM-VQA Models
 ![LMMs](https://github.com/user-attachments/assets/dea7d25a-1ba3-4865-b4d5-ebf6857842c3)
 ## EvalMi-50K Download
+href="https://huggingface.co/datasets/wangjiarui/EvalMi-50K/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green">
 ```
 huggingface-cli download wangjiarui/EvalMi-50K --repo-type dataset --local-dir ./EvalMi-50K
 ```
