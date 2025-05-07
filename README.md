@@ -24,22 +24,14 @@ huggingface-cli download wangjiarui/EvalMi-50K --repo-type dataset --local-dir .
 ## Quick Access of T2V Models
 | Model |Code/Project Link |
 |---|---|
-|SD v2-1|[https://github.com/Picsart-AI-Research/Text2Video-Zero](https://huggingface.co/stabilityai/stable-diffusion-2-1)|
-|ModelScope|https://modelscope.cn/models/iic/text-to-video-synthesis/summary|
-|ZeroScope|https://huggingface.co/cerspense/zeroscope_v2_576w|
-|LaVie|https://github.com/Vchitect/LaVie|
-|Show-1|https://github.com/showlab/Show-1|
-|Hotshot-XL|https://github.com/hotshotco/Hotshot-XL|
-|AnimateDiff|https://github.com/guoyww/AnimateDiff|
-|VideoCrafter1-512 / VideoCrafter1-1024 / VideoCrafter2|https://github.com/AILab-CVC/VideoCrafter|
-Mora|https://github.com/lichao-sun/Mora|
-Gen-2|https://research.runwayml.com/gen2|
-Genmo|https://www.genmo.ai|
-Pika|https://pika.art/home|
-NeverEnds|https://neverends.life|
-MoonValley|https://moonvalley.ai|
-Morph Studio|https://www.morphstudio.com|
-Stable Video|https://www.stablevideo.com/welcome|
+|SD_v2-1|https://huggingface.co/stabilityai/stable-diffusion-2-1|
+|i-Code-V3|https://github.com/microsoft/i-Code|
+|SDXL_base_1|https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0|
+|DALLE3|https://openai.com/index/dall-e-3|
+|LLMGA|https://github.com/dvlab-research/LLMGA|
+|Kandinsky-3|https://github.com/ai-forever/Kandinsky-3|
+|LWM|https://github.com/LargeWorldModel/LWM|
+
 
 ## Citation
 
