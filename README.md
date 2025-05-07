@@ -57,7 +57,7 @@ sh shell/train_qa.sh
 
 ## 🌈 Evaluation
 
-for perception and correspondence scoree evaluation (Scores)
+for perception and correspondence score evaluation (Scores)
 
 ```
 sh shell/eval_scores.sh
