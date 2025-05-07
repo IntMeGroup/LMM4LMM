@@ -38,6 +38,10 @@ pip install -r requirements.txt
 ```
 
 ## 🌈 Training
+Preparation
+```
+huggingface-cli download wangjiarui/EvalMi-50K/data --repo-type dataset --local-dir ./data
+```
 
 for stage1 training (Text-based quality levels)
 
