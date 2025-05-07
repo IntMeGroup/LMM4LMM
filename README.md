@@ -17,9 +17,9 @@
 ## LMM-VQA Models
 ![LMMs](https://github.com/user-attachments/assets/dea7d25a-1ba3-4865-b4d5-ebf6857842c3)
 ## EvalMi-50K Download
- <a href="https://huggingface.co/datasets/wangjiarui/EvalMi-50K/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green"></a>
+ <a href="https://huggingface.co/datasets/IntMeGroup/EvalMi-50K/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green"></a>
 ```
-huggingface-cli download wangjiarui/EvalMi-50K --repo-type dataset --local-dir ./EvalMi-50K
+huggingface-cli download IntMeGroup/EvalMi-50K --repo-type dataset --local-dir ./EvalMi-50K
 ```
 ## 🛠️ Installation
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ## 🌈 Training
 Preparation
 ```
-huggingface-cli download wangjiarui/EvalMi-50K/data --repo-type dataset --local-dir ./data
+huggingface-cli download IntMeGroup/EvalMi-50K/data --repo-type dataset --local-dir ./data
 ```
 
 for stage1 training (Text-based quality levels)
