@@ -63,13 +63,13 @@ huggingface-cli download IntMeGroup/LMM4LMM-Correspondence --local-dir ./weights
 huggingface-cli download IntMeGroup/LMM4LMM-QA --local-dir ./weights/qa
 ```
 
-for perception and correspondence score evaluation (Scores)
+for [perception](https://huggingface.co/IntMeGroup/LMM4LMM-Perception) and [correspondence](https://huggingface.co/IntMeGroup/LMM4LMM-Correspondence) score evaluation (Scores)
 
 ```
 sh shell/eval_scores.sh
 ```
 
-for quastion-answering evaluation (QA)
+for [quastion-answering evaluation](https://huggingface.co/IntMeGroup/LMM4LMM-QA) (QA)
 ```
 sh shell/eval_qa.sh
 ```
