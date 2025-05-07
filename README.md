@@ -21,6 +21,64 @@
 ```
 huggingface-cli download wangjiarui/EvalMi-50K --repo-type dataset --local-dir ./EvalMi-50K
 ```
+## 🛠️ Installation
+
+Clone this repository:
+```
+git clone https://github.com/IntMeGroup/LMM4LMM.git
+```
+Create a conda virtual environment and activate it:
+```
+conda create -n LMM4LMM python=3.9 -y
+conda activate LMM4LMM
+```
+Install dependencies using requirements.txt:
+```
+pip install -r requirements.txt
+```
+
+## 🌈 Training
+
+for stage1 training (Text-based quality levels)
+
+```
+sh shell/train_stage1.sh
+```
+for stage2 training (Fine-tuning the vision encoder and LLM with LoRA)
+
+```
+sh shell/train_stage2.sh
+```
+
+for quastion-answering training (QA)
+```
+sh shell/train_qa.sh
+```
+
+## 🌈 Evaluation
+
+for stage1 evaluation (Text-based quality levels)
+
+```
+sh shell/eval_scores.sh
+```
+for stage2 evaluation (Scores)
+
+```
+sh shell/stage2_eval.sh
+```
+
+for quastion-answering evaluation (QA)
+```
+sh shell/eval_qa.sh
+```
+
+
+## 📌 TODO
+- ✅ Release the training code 
+- ✅ Release the evaluation code 
+- ✅ Release the AIGVQA-DB
+
 ## Quick Access of T2V Models
 | Model |Code/Project Link |
 |---|---|
@@ -49,7 +107,11 @@ huggingface-cli download wangjiarui/EvalMi-50K --repo-type dataset --local-dir .
 |NOVA|https://github.com/baaivision/NOVA|
 |Infinity|https://github.com/FoundationVision/Infinity|
 
-## Citation
+## 📧 Contact
+If you have any inquiries, please don't hesitate to reach out via email at `wangjiarui@sjtu.edu.cn`
+
+
+## 🎓Citations
 
 If you find our work useful, please cite our paper as:
 ```
