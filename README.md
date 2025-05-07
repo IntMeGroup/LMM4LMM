@@ -31,7 +31,23 @@ huggingface-cli download wangjiarui/EvalMi-50K --repo-type dataset --local-dir .
 |LLMGA|https://github.com/dvlab-research/LLMGA|
 |Kandinsky-3|https://github.com/ai-forever/Kandinsky-3|
 |LWM|https://github.com/LargeWorldModel/LWM|
-
+|Playground|https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic|
+|LaVi-Bridge|https://github.com/ShihaoZhaoZSH/LaVi-Bridge|
+|ELLA|https://github.com/TencentQQGYLab/ELLA|
+|Seed-xi|https://github.com/AILab-CVC/SEED-X|
+|PixArt-sigma|https://github.com/PixArt-alpha/PixArt-sigma|
+|LlamaGen|https://github.com/FoundationVision/LlamaGen|
+|Kolors|https://github.com/Kwai-Kolors/Kolors|
+|Flux_schnell|https://huggingface.co/black-forest-labs/FLUX.1-schnell|
+|Omnigen|https://github.com/VectorSpaceLab/OmniGen|
+|EMU3|https://github.com/baaivision/Emu|
+|Vila-u|https://github.com/mit-han-lab/vila-u|
+|SD3_5_large|https://huggingface.co/stabilityai/stable-diffusion-3.5-large|
+|Show-o|https://github.com/showlab/Show-o|
+|Janus|https://github.com/deepseek-ai/Janus|
+|Hart|https://github.com/mit-han-lab/hart|
+|NOVA|https://github.com/baaivision/NOVA|
+|Infinity|https://github.com/FoundationVision/Infinity|
 
 ## Citation
 
