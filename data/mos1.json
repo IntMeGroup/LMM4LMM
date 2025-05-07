@@ -1,0 +1,9 @@
+{
+    "sharegpt4v_instruct_gpt4-vision_cap100k": {
+      "root": "/mnt/data/wjr/AIGI2025/G1",
+      "annotation_train": "data/train_AIGI_mos1_fold_1.jsonl",
+      "annotation_test": "data/test_AIGI_mos1_fold_1.jsonl",
+      "data_augment": false,
+      "repeat_time": 1
+    }
+}
