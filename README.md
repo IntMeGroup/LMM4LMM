@@ -69,7 +69,7 @@ for [perception](https://huggingface.co/IntMeGroup/LMM4LMM-Perception) and [corr
 sh shell/eval_scores.sh
 ```
 
-for [quastion-answering evaluation](https://huggingface.co/IntMeGroup/LMM4LMM-QA) (QA)
+for [quastion-answering](https://huggingface.co/IntMeGroup/LMM4LMM-QA) evaluation (QA)
 ```
 sh shell/eval_qa.sh
 ```
