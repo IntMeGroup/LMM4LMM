@@ -57,12 +57,7 @@ sh shell/train_qa.sh
 
 ## 🌈 Evaluation
 
-for stage1 evaluation (Text-based quality levels)
-
-```
-sh shell/eval_scores.sh
-```
-for stage2 evaluation (Scores)
+for perception and correspondence scoree evaluation (Scores)
 
 ```
 sh shell/stage2_eval.sh
