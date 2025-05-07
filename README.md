@@ -49,7 +49,9 @@ python setup.py install
 ```
 Alternatively if you are cuda12 you can use the packed env from
 ```
-huggingface-cli download IntMeGroup/env --repo-type dataset --local-dir /home/anaconda3
+huggingface-cli download IntMeGroup/env --repo-type dataset --local-dir /home/user/anaconda3/envs
+mkdir -p /home/user/anaconda3/envs/LMM4LMM
+tar -xzf LMM4LMM.tar.gz -C /home/user/anaconda3/envs/LMM4LMM
 ```
 ## 🌈 Training
 Preparation
