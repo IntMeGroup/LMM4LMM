@@ -56,6 +56,12 @@ sh shell/train_qa.sh
 ```
 
 ## 🌈 Evaluation
+Download the pretrained weights
+```
+huggingface-cli download IntMeGroup/LMM4LMM-Perception --local-dir ./weights/stage2/stage2_mos1
+huggingface-cli download IntMeGroup/LMM4LMM-Correspondence --local-dir ./weights/stage2/stage2_mos2
+huggingface-cli download IntMeGroup/LMM4LMM-QA --local-dir ./weights/qa
+```
 
 for perception and correspondence score evaluation (Scores)
 
