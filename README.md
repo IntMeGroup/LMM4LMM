@@ -60,7 +60,7 @@ sh shell/train_qa.sh
 for perception and correspondence scoree evaluation (Scores)
 
 ```
-sh shell/stage2_eval.sh
+sh shell/eval_scores.sh
 ```
 
 for quastion-answering evaluation (QA)
