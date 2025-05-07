@@ -82,7 +82,7 @@ sh shell/eval_qa.sh
 ## 📌 TODO
 - ✅ Release the training code 
 - ✅ Release the evaluation code 
-- ✅ Release the AIGVQA-DB
+- ✅ Release the EvalMi-50K Database
 
 ## Quick Access of T2V Models
 | Model |Code/Project Link |
