@@ -36,7 +36,21 @@ Install dependencies using requirements.txt:
 ```
 pip install -r requirements.txt
 ```
-
+Install flash-attn==2.3.6
+```
+pip install flash-attn==2.3.6 --no-build-isolation
+```
+Alternatively you can compile from source:
+```
+git clone https://github.com/Dao-AILab/flash-attention.git
+cd flash-attention
+git checkout v2.3.6
+python setup.py install
+```
+Alternatively if you are cuda12 you can use the packed env from
+```
+huggingface-cli download IntMeGroup/env --repo-type dataset --local-dir /home/anaconda3
+```
 ## 🌈 Training
 Preparation
 ```
