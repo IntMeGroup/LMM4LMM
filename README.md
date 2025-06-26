@@ -1,6 +1,6 @@
 
 <div align="center">
-   <h1>LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs</h1>
+   <h1>LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs (ICCV 2025) </h1>
    <i>How to evaluate Text to Image Generation Model properly?</i>
    <div>
       <!-- <a href="https://arxiv.org/abs/2504.08358"><img src="https://arxiv.org/abs/2504.08358"/></a> -->
