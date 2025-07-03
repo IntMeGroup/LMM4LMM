@@ -122,7 +122,8 @@ sh shell/infer_correspondence.sh
 
 ## 📌 TODO
 - ✅ Release the training code 
-- ✅ Release the evaluation code 
+- ✅ Release the evaluation code
+- ✅ Release the inference code 
 - ✅ Release the EvalMi-50K Database
 
 ## Quick Access of T2V Models
