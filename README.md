@@ -99,6 +99,15 @@ Download the pretrained weights
 huggingface-cli download IntMeGroup/LMM4LMM-Perception --local-dir ./weights/stage2/stage2_mos1
 huggingface-cli download IntMeGroup/LMM4LMM-Correspondence --local-dir ./weights/stage2/stage2_mos2
 ```
+Configuration File Paths
+Before running the inference scripts, make sure to modify the paths in the data/infer_mos1.json and data/infer_mos2.json configuration files as follows:
+Make sure to update the paths accordingly:
+```
+root: Path to your root directory where img data is stored.
+annotation_infer: Path to the file containing image paths for inference.
+img_prompt: Path to the file containing image prompts for inference.
+```
+
 For Perception Score Inference:
 
 ```
