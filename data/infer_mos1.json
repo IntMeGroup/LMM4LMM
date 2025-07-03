@@ -1,0 +1,8 @@
+{
+    "sharegpt4v_instruct_gpt4-vision_cap100k": {
+      "root": "/home/wangjiarui/AIGI2025",
+      "annotation_infer": "/home/wangjiarui/AIGI_2025/inferimg.txt",
+      "data_augment": false,
+      "repeat_time": 1
+    }
+}
