@@ -93,7 +93,23 @@ for [quastion-answering](https://huggingface.co/IntMeGroup/LMM4LMM-QA) evaluatio
 ```
 sh shell/eval_qa.sh
 ```
+## 🌈 Inference
+Download the pretrained weights
+```
+huggingface-cli download IntMeGroup/LMM4LMM-Perception --local-dir ./weights/stage2/stage2_mos1
+huggingface-cli download IntMeGroup/LMM4LMM-Correspondence --local-dir ./weights/stage2/stage2_mos2
+```
+For Perception Score Inference:
 
+```
+sh shell/infer_perception.sh
+```
+
+For T2I Correspondence Score Inference:
+
+```
+sh shell/infer_correspondence.sh
+```
 
 ## 📌 TODO
 - ✅ Release the training code 
