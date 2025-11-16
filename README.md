@@ -171,4 +171,12 @@ If you find our work useful, please cite our paper as:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2504.08358}, 
 }
+@InProceedings{Wang_2025_ICCV,
+    author    = {Wang, Jiarui and Duan, Huiyu and Zhao, Yu and Wang, Juntong and Zhai, Guangtao and Min, Xiongkuo},
+    title     = {LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {17312-17323}
+}
 ```
